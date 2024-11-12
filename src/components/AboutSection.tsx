@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code, Link2, Sparkles } from 'lucide-react';
+import { Code, Link2, FileText, Sparkles } from 'lucide-react';
 
 const AboutSection: React.FC = () => {
   return (
@@ -73,7 +73,7 @@ const AboutSection: React.FC = () => {
                 description: "Experienced with ICP, Ethereum, and dApp development."
               },
               {
-                icon: <Cpu className="w-8 h-8 text-violet-400" />,
+                icon: <FileText className="w-8 h-8 text-violet-400" />,
                 title: "Technical Writing",
                 description: "Skilled in clear, accessible documentation and tutorials."
               }
