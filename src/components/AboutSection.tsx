@@ -74,8 +74,8 @@ const AboutSection: React.FC = () => {
               },
               {
                 icon: <Cpu className="w-8 h-8 text-violet-400" />,
-                title: "Tech Enthusiast",
-                description: "Always learning and exploring new technologies"
+                title: "Technical Writing",
+                description: "Skilled in clear, accessible documentation and tutorials."
               }
             ].map((item, index) => (
               <motion.div
