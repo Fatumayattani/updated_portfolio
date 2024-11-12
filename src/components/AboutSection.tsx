@@ -64,8 +64,8 @@ const AboutSection: React.FC = () => {
             {[
               {
                 icon: <Brain className="w-8 h-8 text-violet-400" />,
-                title: "Problem Solver",
-                description: "Turning complex challenges into elegant solutions"
+                title: "Frontend & Backend Development",
+                description: "Proficient in developing seamless, responsive interfaces and scalable backend systems using React, Nodejs, Python, and TypeScript."
               },
               {
                 icon: <Globe2 className="w-8 h-8 text-violet-400" />,
