@@ -16,7 +16,7 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
       {/* Background AI Image */}
       <div className="absolute inset-0 opacity-20">
         <img
-          src="https://images.unsplash.com/photo-1693922874336-2f67bb585be7?auto=format&fit=crop&q=80"
+          src="/src/assets/screen.png"
           alt="AI Background"
           className="w-full h-full object-cover"
         />
