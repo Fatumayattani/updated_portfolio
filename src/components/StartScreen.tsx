@@ -49,10 +49,10 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
       >
         <Code2 className="w-20 h-20 text-violet-300 mx-auto mb-8" />
         <h1 className="text-5xl font-bold text-white mb-4 tracking-tight">
-          John Doe
+          Fatuma Yattani
         </h1>
         <p className="text-xl text-violet-200 mb-12">
-          Fullstack Developer & Digital Craftsman
+          Fullstack Developer & Technical Writer
         </p>
 
         <motion.button
