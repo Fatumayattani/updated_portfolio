@@ -14,7 +14,7 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
       className="min-h-screen bg-gradient-to-br from-indigo-950 via-purple-900 to-violet-950 flex flex-col items-center justify-center relative overflow-hidden"
     >
       {/* Background AI Image */}
-      <div className="absolute inset-0 opacity-20">
+      <div className="absolute inset-0 opacity-40">
         <img
           src="/src/assets/screen.png"
           alt="AI Background"
