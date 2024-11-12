@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code, Link2, Globe2, Sparkles } from 'lucide-react';
+import { Code, Link2, Sparkles } from 'lucide-react';
 
 const AboutSection: React.FC = () => {
   return (
