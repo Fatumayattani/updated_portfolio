@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Brain, Cpu, Globe2, Sparkles } from 'lucide-react';
+import { Code, Cpu, Globe2, Sparkles } from 'lucide-react';
 
 const AboutSection: React.FC = () => {
   return (
@@ -63,7 +63,7 @@ const AboutSection: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
             {[
               {
-                icon: <Brain className="w-8 h-8 text-violet-400" />,
+                icon: <Code className="w-8 h-8 text-violet-400" />,
                 title: "Frontend & Backend Development",
                 description: "Skilled in React, Node.js, Python, and TypeScript."
               },
