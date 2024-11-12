@@ -117,7 +117,7 @@ const AboutSection: React.FC = () => {
               transition={{ duration: 8, repeat: Infinity, ease: "linear" }}
             />
             <p className="text-lg leading-relaxed relative z-10">
-              As a passionate fullstack developer with over 5 years of experience, I specialize in creating beautiful, scalable web applications using modern technologies like React, Node.js, and TypeScript. My expertise spans from crafting intuitive user interfaces to building robust backend systems, always staying at the forefront of technology trends while maintaining a keen eye for detail and performance optimization.
+            I'm a full-stack developer dedicated to building impactful solutions that address real-world challenges. With expertise in frontend and backend development, as well as emerging technologies like AI and blockchain, I design and implement applications that prioritize user experience and functionality. My work focuses on bridging technology with practical needs, enhancing transparency, fostering community-driven projects, and driving social impact through multichain integrations and AI-driven insights.
             </p>
           </motion.div>
         </motion.div>
