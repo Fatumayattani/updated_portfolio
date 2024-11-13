@@ -1,6 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Layout, Server, Smartphone, Terminal, Sparkles } from 'lucide-react';
+import screen1 from './assets/screen1.png';
+
 
 const skills = [
   {
@@ -8,7 +10,7 @@ const skills = [
     icon: <Layout className="w-6 h-6" />,
     items: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js'],
     color: 'from-blue-500 to-cyan-400',
-    image: '/screen1.png'
+    image: screen1
   },
   {
     category: 'Backend',
