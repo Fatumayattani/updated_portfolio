@@ -16,20 +16,21 @@ const skills = [
     icon: <Server className="w-6 h-6" />,
     items: ['Node.js', 'Python', 'PostgreSQL', 'Redis'],
     color: 'from-green-500 to-emerald-400',
-    image: 'https://images.unsplash.com/photo-1511376777868-611b54f68947?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    image: 'https://images.unsplash.com/photo-1731488394262-8c630bfe5ad7?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     category: 'Mobile',
     icon: <Smartphone className="w-6 h-6" />,
     items: ['React Native', 'Flutter', 'iOS', 'Android'],
     color: 'from-purple-500 to-pink-400',
+    image: 'https://images.unsplash.com/photo-1731488394262-8c630bfe5ad7?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     category: 'DevOps',
     icon: <Terminal className="w-6 h-6" />,
     items: ['Docker', 'AWS', 'CI/CD', 'Kubernetes'],
     color: 'from-orange-500 to-yellow-400',
-    image: 'https://images.unsplash.com/photo-1511376777868-611b54f68947?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    image: 'https://images.unsplash.com/photo-1731488394262-8c630bfe5ad7?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   }
 ];
 
