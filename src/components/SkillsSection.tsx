@@ -23,7 +23,7 @@ const skills = [
     icon: <Smartphone className="w-6 h-6" />,
     items: ['React Native', 'Flutter', 'iOS', 'Android'],
     color: 'from-purple-500 to-pink-400',
-    image: 'https://images.unsplash.com/photo-1701977407870-99c498c8ea63?auto=format&fit=crop&q=80'
+    image: 'https://images.unsplash.com/photo-1511376777868-611b54f68947?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     category: 'DevOps',
