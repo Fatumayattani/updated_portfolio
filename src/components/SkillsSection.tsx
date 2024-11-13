@@ -9,7 +9,7 @@ const skills = [
     icon: <Layout className="w-6 h-6" />,
     items: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js'],
     color: 'from-blue-500 to-cyan-400',
-    image: screen1
+    image: 'https://images.unsplash.com/photo-1511376777868-611b54f68947?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   },
   {
     category: 'Backend',
