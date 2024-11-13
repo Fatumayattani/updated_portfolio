@@ -30,7 +30,7 @@ const skills = [
     icon: <Terminal className="w-6 h-6" />,
     items: ['Docker', 'AWS', 'CI/CD', 'Kubernetes'],
     color: 'from-orange-500 to-yellow-400',
-    image: 'https://images.unsplash.com/photo-1702238843310-4e95f1a549cd?auto=format&fit=crop&q=80'
+    image: 'https://images.unsplash.com/photo-1511376777868-611b54f68947?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
   }
 ];
 
