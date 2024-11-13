@@ -25,7 +25,7 @@ const projects = [
   },
   {
     title: 'Business Forecasting Tool',
-    description: 'Collaborative task management tool with real-time updates',
+    description: 'AI-powered Business Forecasting Tool enables businesses to make informed decisions through data processing and predictive modeling.',
     image: 'https://images.unsplash.com/photo-1702238843310-4e95f1a549cd?auto=format&fit=crop&q=80&w=1000',
     tags: ['Typescript', 'JavaScript', 'Tailwind', 'API'],
     links: {
