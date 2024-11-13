@@ -1,7 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Layout, Server, Smartphone, Terminal, Sparkles } from 'lucide-react';
-import screen1 from './assets/screen1.png';
 
 
 const skills = [
