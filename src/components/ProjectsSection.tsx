@@ -24,10 +24,10 @@ const projects = [
     }
   },
   {
-    title: 'Task Management System',
+    title: 'Business Forecasting Tool',
     description: 'Collaborative task management tool with real-time updates',
     image: 'https://images.unsplash.com/photo-1702238843310-4e95f1a549cd?auto=format&fit=crop&q=80&w=1000',
-    tags: ['Vue.js', 'Firebase', 'Tailwind', 'TypeScript'],
+    tags: ['Typescript', 'JavaScript', 'Tailwind', 'API'],
     links: {
       live: 'https://example.com',
       github: 'https://github.com'
@@ -156,7 +156,7 @@ const ProjectsSection: React.FC = () => {
                       className="flex items-center gap-2 text-violet-400 hover:text-violet-300 transition-colors"
                     >
                       <Github className="w-4 h-4" />
-                      <span>Source</span>
+                      <span>Source Code</span>
                     </motion.a>
                   </div>
                 </div>
