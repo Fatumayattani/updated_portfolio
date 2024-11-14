@@ -14,9 +14,9 @@ const blogPosts = [
   },
   {
     title: '20 Things That Make React Hooks Powerful for Developers',
-    excerpt: 'Advanced techniques for optimizing React applications and improving user experience.',
-    date: '2024-03-10',
-    readTime: '8 min read',
+    excerpt: 'With React Hooks, you can manage state, perform side effects, and access lifecycle methods in functional components, making them more powerful and expressive.',
+    date: '2024-07-06',
+    readTime: '3 min read',
     image: 'https://images.unsplash.com/photo-1702055894943-1f4012fae0c7?auto=format&fit=crop&q=80&w=1000',
     category: 'React'
   },
