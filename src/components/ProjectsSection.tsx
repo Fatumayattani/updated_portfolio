@@ -30,7 +30,7 @@ const projects = [
     tags: ['Typescript', 'JavaScript', 'Tailwind', 'API'],
     links: {
       live: 'https://example.com',
-      github: 'https://github.com'
+      github: 'https://github.com/Fatumayattani/business_forecasting_tool'
     }
   }
 ];
