@@ -10,7 +10,7 @@ const projects = [
     tags: ['Solidity', 'TypeScript', 'Javascript'],
     links: {
       live: 'https://example.com',
-      github: 'https://github.com'
+      github: 'https://github.com/Fatumayattani/nft_smart_contract'
     }
   },
   {
