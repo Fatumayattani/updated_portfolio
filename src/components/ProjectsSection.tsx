@@ -20,7 +20,7 @@ const projects = [
     tags: ['React', 'Typescript', 'Storybook', 'Node.js'],
     links: {
       live: 'https://example.com',
-      github: 'https://github.com'
+      github: 'https://github.com/Fatumayattani/UIkit_Storybook'
     }
   },
   {
