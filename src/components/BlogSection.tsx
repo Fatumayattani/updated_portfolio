@@ -18,7 +18,8 @@ const blogPosts = [
     date: '2024-07-06',
     readTime: '3 min read',
     image: 'https://images.unsplash.com/photo-1702055894943-1f4012fae0c7?auto=format&fit=crop&q=80&w=1000',
-    category: 'React'
+    category: 'React',
+    link: 'https://medium.com/@fyattani/20-things-that-make-react-hooks-powerful-for-developers-79bcf035b5c3',
   },
   {
     title: 'AI in Modern Applications',
