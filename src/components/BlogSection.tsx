@@ -23,7 +23,7 @@ const blogPosts = [
   },
   {
     title: 'Tips for Writing Clean and Maintainable Code',
-    excerpt: 'Clean code not only enhances readability but also simplifies debugging, testing, and collaboration.',
+    excerpt: 'Creating code that is both clean and maintainable is a fundamental aspect of software development. Clean code not only enhances readability but also simplifies debugging, testing, and collaboration. ',
     date: '2024-02-25',
     readTime: '4 min read',
     image: 'https://images.unsplash.com/photo-1616138276663-5041438a8476?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
