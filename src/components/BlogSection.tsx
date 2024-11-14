@@ -17,7 +17,7 @@ const blogPosts = [
     excerpt: 'With React Hooks, you can manage state, perform side effects, and access lifecycle methods in functional components, making them more powerful and expressive.',
     date: '2024-07-06',
     readTime: '3 min read',
-    image: 'https://images.unsplash.com/photo-1702055894943-1f4012fae0c7?auto=format&fit=crop&q=80&w=1000',
+    image: 'https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     category: 'React',
     link: 'https://medium.com/@fyattani/20-things-that-make-react-hooks-powerful-for-developers-79bcf035b5c3',
   },
