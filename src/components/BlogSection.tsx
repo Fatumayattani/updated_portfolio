@@ -4,12 +4,12 @@ import { Calendar, Clock, ArrowRight, Sparkles } from 'lucide-react';
 
 const blogPosts = [
   {
-    title: 'The Future of Web Development',
+    title: 'Top 10 Layer 2 Blockchain Solutions for 2024',
     excerpt: 'Exploring upcoming trends and technologies that will shape the future of web development.',
-    date: '2024-03-15',
+    date: '2024-10-01',
     readTime: '5 min read',
-    image: 'https://images.unsplash.com/photo-1701977407870-99c498c8ea63?auto=format&fit=crop&q=80&w=1000',
-    category: 'Web Development'
+    image: 'https://images.unsplash.com/photo-1642576422624-fd0df2b084d3?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    category: 'Blockchain'
   },
   {
     title: 'Mastering React Performance',
