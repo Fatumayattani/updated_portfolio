@@ -16,7 +16,7 @@ const projects = [
   {
     title: 'UI Kit Library',
     description: 'An open-source, reusable component library built with React, TypeScript, and Storybook, offering essential UI elements for modern web applications.',
-    image: 'https://images.unsplash.com/photo-1731495155373-6f5971b7a369?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://images.unsplash.com/photo-1506729623306-b5a934d88b53?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     tags: ['React', 'Typescript', 'Storybook', 'Node.js'],
     links: {
       live: 'https://example.com',
