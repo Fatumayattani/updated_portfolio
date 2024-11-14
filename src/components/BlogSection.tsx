@@ -22,7 +22,7 @@ const blogPosts = [
     link: 'https://medium.com/@fyattani/20-things-that-make-react-hooks-powerful-for-developers-79bcf035b5c3',
   },
   {
-    title: 'AI in Modern Applications',
+    title: 'Tips for Writing Clean and Maintainable Code',
     excerpt: 'How to integrate AI capabilities into your web applications effectively.',
     date: '2024-03-05',
     readTime: '6 min read',
