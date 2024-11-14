@@ -108,6 +108,7 @@ const BlogSection: React.FC = () => {
                     <span>{post.readTime}</span>
                   </div>
                 </div>
+                <a href={post.link} target="_blank" rel="noopener noreferrer">
 
                 <motion.button
                   whileHover={{ x: 5 }}
@@ -115,6 +116,7 @@ const BlogSection: React.FC = () => {
                 >
                   Read More <ArrowRight className="w-4 h-4" />
                 </motion.button>
+                </a>
               </div>
             </motion.article>
           ))}
