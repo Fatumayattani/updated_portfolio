@@ -55,7 +55,7 @@ const ContactSection: React.FC = () => {
                 <div className="p-2 bg-violet-500/10 rounded-lg">
                   <Mail className="w-5 h-5 text-violet-400" />
                 </div>
-                <span>john.doe@example.com</span>
+                <span>fyattani@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-gray-300">
                 <div className="p-2 bg-violet-500/10 rounded-lg">
