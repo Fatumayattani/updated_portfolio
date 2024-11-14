@@ -23,7 +23,7 @@ const blogPosts = [
   },
   {
     title: 'Tips for Writing Clean and Maintainable Code',
-    excerpt: 'How to integrate AI capabilities into your web applications effectively.',
+    excerpt: 'Clean code not only enhances readability but also simplifies debugging, testing, and collaboration.',
     date: '2024-03-05',
     readTime: '6 min read',
     image: 'https://images.unsplash.com/photo-1702238843310-4e95f1a549cd?auto=format&fit=crop&q=80&w=1000',
