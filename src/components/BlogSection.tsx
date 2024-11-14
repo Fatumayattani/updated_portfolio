@@ -13,7 +13,7 @@ const blogPosts = [
     link: 'https://medium.com/@fyattani/top-10-layer-2-blockchain-solutions-for-2024-cdb0e265815a',
   },
   {
-    title: 'Mastering React Performance',
+    title: '20 Things That Make React Hooks Powerful for Developers',
     excerpt: 'Advanced techniques for optimizing React applications and improving user experience.',
     date: '2024-03-10',
     readTime: '8 min read',
