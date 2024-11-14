@@ -51,12 +51,15 @@ const ContactSection: React.FC = () => {
           >
             <h3 className="text-2xl font-semibold mb-6 text-gradient">Contact Information</h3>
             <div className="space-y-4">
-              <div className="flex items-center gap-3 text-gray-300">
-                <div className="p-2 bg-violet-500/10 rounded-lg">
-                  <Mail className="w-5 h-5 text-violet-400" />
-                </div>
-                <span>fyattani@gmail.com</span>
-              </div>
+            <div className="flex items-center gap-3 text-gray-300">
+  <div className="p-2 bg-violet-500/10 rounded-lg">
+    <Mail className="w-5 h-5 text-violet-400" />
+  </div>
+  <a href="mailto:fyattani@gmail.com" className="text-violet-400 hover:text-violet-300">
+    fyattani@gmail.com
+  </a>
+</div>
+
               <div className="flex items-center gap-3 text-gray-300">
                 <div className="p-2 bg-violet-500/10 rounded-lg">
                   <MessageSquare className="w-5 h-5 text-violet-400" />
