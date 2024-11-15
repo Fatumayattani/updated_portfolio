@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Code2, Sparkles } from 'lucide-react';
-import screen1 from './assets/screen1.png';
+
 
 interface StartScreenProps {
   onStart: () => void;
@@ -17,7 +17,7 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
       {/* Background AI Image */}
       <div className="absolute inset-0 opacity-40">
         <img
-        src={screen1}
+        src="/assets/screen1.png"
           alt="AI Background"
           className="w-full h-full object-cover"
         />
