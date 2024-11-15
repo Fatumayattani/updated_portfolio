@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Mail, MessageSquare, Send, Sparkles } from 'lucide-react';
+import { Mail, BookOpen, Send, Sparkles, Github } from 'lucide-react';
 
 const ContactSection: React.FC = () => {
   return (
@@ -57,13 +57,18 @@ const ContactSection: React.FC = () => {
                 </div>
                 <span>fyattani@gmail.com</span> 
               </div>
-
               <div className="flex items-center gap-3 text-gray-300">
-                <div className="p-2 bg-violet-500/10 rounded-lg">
-                  <MessageSquare className="w-5 h-5 text-violet-400" />
-                </div>
-                <span>@johndoe</span>
-              </div>
+  <div className="p-2 bg-violet-500/10 rounded-lg">
+    <BookOpen className="w-5 h-5 text-violet-400" /> {/* Use BookOpen to represent Medium */}
+  </div>
+  <span>@fyattani</span> {/* Replace with Medium handle */}
+</div>
+<div className="flex items-center gap-3 text-gray-300">
+  <div className="p-2 bg-violet-500/10 rounded-lg">
+    <Github className="w-5 h-5 text-violet-400" /> {/* Use Github icon */}
+  </div>
+  <span>Fatumayattani</span> {/* Replace with GitHub handle */}
+</div>
             </div>
           </motion.div>
 
