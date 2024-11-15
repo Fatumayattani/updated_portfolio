@@ -15,14 +15,6 @@ const StartScreen: React.FC<StartScreenProps> = ({ onStart }) => {
       className="min-h-screen bg-gradient-to-br from-indigo-950 via-purple-900 to-violet-950 flex flex-col items-center justify-center relative overflow-hidden"
     >
       {/* Background AI Image */}
-      <div className="absolute inset-0 opacity-40">
-        <img
-        src="/assets/screen1.png"
-          alt="AI Background"
-          className="w-full h-full object-cover"
-        />
-      </div>
-
       {/* Animated particles */}
       {[...Array(20)].map((_, i) => (
         <motion.div
