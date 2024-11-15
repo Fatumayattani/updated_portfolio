@@ -27,7 +27,7 @@ const projects = [
     title: 'Business Forecasting Tool',
     description: 'AI-powered Business Forecasting Tool enables businesses to make informed decisions through data processing and predictive modeling.',
     image: 'https://images.unsplash.com/photo-1731495155373-6f5971b7a369?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    tags: ['Typescript', 'JavaScript', 'Tailwind', 'API'],
+    tags: ['Typescript', 'JavaScript', 'Tailwind', 'Gemini API'],
     links: {
       live: 'https://example.com',
       github: 'https://github.com/Fatumayattani/business_forecasting_tool'
