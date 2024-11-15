@@ -30,7 +30,7 @@ const Navbar: React.FC<NavbarProps> = ({ currentSection, onSectionChange }) => {
             className="flex items-center gap-2 text-violet-400 hover:text-violet-300"
           >
             <Home className="w-6 h-6" />
-            <span className="font-bold text-lg">Portfolio</span>
+            <span className="font-bold text-lg">Fatuma Yattani</span>
           </motion.button>
 
           {/* Desktop Navigation */}
